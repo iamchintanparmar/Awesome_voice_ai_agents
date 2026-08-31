@@ -2,6 +2,12 @@
 
 A conversational voice agent system that generates immersive, self-guided audio tours based on the user's **location**, **areas of interest**, and **tour duration**. Built on a multi-agent architecture using OpenAI Agents SDK, real-time information retrieval, and expressive TTS for natural speech output.
 
+
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
 ---
 
 ## Features
@@ -50,8 +56,8 @@ A conversational voice agent system that generates immersive, self-guided audio 
 1. Clone the GitHub repository
 
 ```bash
-git clone [REPO_LINK]
-cd [PROJECT_FOLDER]
+git clone https://github.com/iamchintanparmar/Awesome_voice_ai_agents.git
+cd Awesome_voice_ai_agents/ai_audio_tour_agents
 ```
 2. Install the required dependencies:
 
@@ -65,4 +71,18 @@ pip install -r requirements.txt
 4. Run the Streamlit App
 ```bash
 streamlit run ai_audio_tour_agent.py
+
 ```
+
+
+## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
+
