@@ -2,6 +2,13 @@
 
 An OpenAI SDK powered customer support agent application that delivers voice-powered responses to questions about your knowledge base using OpenAI's GPT-4o and TTS capabilities. The system crawls through documentation websites with Firecrawl, processes the content into a searchable knowledge base with Qdrant, and provides both text and voice responses to user queries.
 
+Created and developed by **[Chintan Parmar](https://github.com/iamchintanparmar)**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-8b6bff)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 ## Features
 
 - Knowledge Base Creation
@@ -26,8 +33,8 @@ An OpenAI SDK powered customer support agent application that delivers voice-pow
 1. **Setup Environment**
    ```bash
    # Clone the repository
-   git clone [REPO_LINK]
-   cd [PROJECT_FOLDER]
+   git clone https://github.com/iamchintanparmar/awesome_voice_ai_agents.git
+   cd Awesome_voice_ai_agents/customer_support_voice_agent
    
    # Install dependencies
    pip install -r requirements.txt
@@ -66,3 +73,14 @@ An OpenAI SDK powered customer support agent application that delivers voice-pow
   - High-quality text-to-speech using OpenAI's TTS models
   - Multiple voice options for customization
   - Natural speech patterns with proper pacing and emphasis
+ 
+  ## Author
+
+**Chintan Parmar** — Full-Stack Developer & Creative Technologist
+
+- GitHub: [@iamchintanparmar](https://github.com/iamchintanparmar)
+- Portfolio: [iamchintanparmar.github.io](https://iamchintanparmar.github.io)
+
+## License
+
+MIT
